@@ -1,1 +1,1 @@
-# smart-reader-dictionaries
+Dictionary files for SmartReader app.
